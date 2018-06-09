@@ -1,0 +1,12 @@
+gost_grasshopper.h:2368:6:S	240	static
+gost_grasshopper.h:2396:6:S_inv	240	static
+gost_grasshopper.h:2425:15:ll	128	static
+gost_grasshopper.h:2451:6:R	80	static
+gost_grasshopper.h:2468:6:R_inv	72	static
+gost_grasshopper.h:2486:6:L	16	static
+gost_grasshopper.h:2495:6:L_inv	16	static
+gost_grasshopper.h:2504:6:F	48	static
+gost_grasshopper.h:2539:6:key_setup	576	static
+gost_grasshopper.h:2599:6:grasshopper_encrypt	32	static
+gost_grasshopper.h:2644:6:grasshopper_decrypt	32	static
+gost_grasshopper.c:13:6:grasshopper_main	88	static
